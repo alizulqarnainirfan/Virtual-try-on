@@ -19,7 +19,7 @@ A production-ready API for virtual clothing try-on built using **FastAPI** and p
 
 ## 🧪 Demo
 
-**Live Demo:** [Try it on Hugging Face](https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME)
+**Live Demo:** [Try it on Hugging Face](https://alizulqarnain-st-vton.hf.space/docs)
 
 ---
 
