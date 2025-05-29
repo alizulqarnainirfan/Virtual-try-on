@@ -51,7 +51,7 @@ A production-ready API for virtual clothing try-on built using **FastAPI** and p
 ### 1. Clone the Repo
 
 1. bash
-git clone https://github.com/YOUR_USERNAME/virtual-tryon-api.git
+git clone https://github.com/alizulqarnainirfan/Virtual-try-on.git
 cd virtual-tryon-api
 
 2. Create .env file
